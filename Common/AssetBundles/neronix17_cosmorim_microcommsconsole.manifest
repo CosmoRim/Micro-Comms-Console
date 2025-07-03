@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3500744724
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 855e303ff1ae07ca3d2240122c8ca3fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 855e303ff1ae07ca3d2240122c8ca3fb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Neronix17.CosmoRim.MicroCommsConsole/Textures/CosmoRim/Buildings/MicroCommsConsole_south.png
+- Assets/Data/Neronix17.CosmoRim.MicroCommsConsole/Textures/CosmoRim/ModIcon.png
+- Assets/Data/Neronix17.CosmoRim.MicroCommsConsole/Textures/CosmoRim/Buildings/MicroCommsConsole_north.png
+- Assets/Data/Neronix17.CosmoRim.MicroCommsConsole/Textures/CosmoRim/Buildings/MicroCommsConsole_east.png
+Dependencies: []
